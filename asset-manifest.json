@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Employee_Polls/static/css/main.ba1a7ac8.css",
+    "main.js": "/Employee_Polls/static/js/main.09c612e0.js",
+    "static/media/avatar_brand.png": "/Employee_Polls/static/media/avatar_brand.5795cb3b8dcbea7a8622.png",
+    "index.html": "/Employee_Polls/index.html",
+    "main.ba1a7ac8.css.map": "/Employee_Polls/static/css/main.ba1a7ac8.css.map",
+    "main.09c612e0.js.map": "/Employee_Polls/static/js/main.09c612e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba1a7ac8.css",
+    "static/js/main.09c612e0.js"
+  ]
+}
